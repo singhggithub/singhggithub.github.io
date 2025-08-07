@@ -4,7 +4,7 @@ A professional cybersecurity portfolio website showcasing my expertise in vulner
 
 ## 🚀 Live Site
 
-Visit the live portfolio at: [https://GauravSingh-CyberSecurity.github.io/](https://GauravSingh-CyberSecurity.github.io/)
+Visit the live portfolio at: [https://gauravsingh-cybersecurity.github.io/](https://gauravsingh-cybersecurity.github.io/)
 
 ## 📋 Features
 
